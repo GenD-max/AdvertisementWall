@@ -8,7 +8,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.Properties;
 
-/*changed*/
+/*我是帅哥*/
 public class JdbcUtils {
 
     private static DruidDataSource dataSource;
