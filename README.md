@@ -48,59 +48,42 @@
 
 ## 2、**UML图**
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC76D.tmp.jpg) 
-
 # 四、**程序的运行结果**
 
 ***\*（1）登录\****
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC77E.tmp.jpg) 
-
 **（2）*****\*注册\****
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC77F.tmp.jpg) 
 
 **（3）*****\*查看天气、日历\****
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC78F.tmp.jpg) 
-
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC790.tmp.jpg) 
-
 （4）浏览全部广告
-
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC791.tmp.jpg) 
 
 （5）按用户浏览广告
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC792.tmp.jpg) 
 
 **（6）*****\*按广告编号浏览\****
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC7A3.tmp.jpg) 
 
 （7）增加广告
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC7A4.tmp.jpg) 
 
 **（8）*****\*删除广告\****
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC7A5.tmp.jpg) 
 
 **（9）*****\*更新广告\****
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC7A6.tmp.jpg) 
 
 **（10）*****\*广告墙数据\****
 
-![img](file:///C:\Users\86176\AppData\Local\Temp\ksohtml\wpsC7A7.tmp.jpg) 
 
 # 五、**设计分工**
 
-（1）董梦龙：负责前端Html页面的更改、优化。同时也负责后端web层的编写，提供了云服务器，同时也负责云服务器Mysql和Tomcat环境的配置。
+（1）GenD_：负责前端Html页面的更改、优化。同时也负责后端web层的编写，提供了云服务器，同时也负责云服务器Mysql和Tomcat环境的配置。
 
-（2）匡天宇：负责后端Dao层和Service层的编写，负责UML的设计。除此之外，负责网站的压力测试，实现网站的高并发。
+（2）kty：负责后端Dao层和Service层的编写，负责UML的设计。除此之外，负责网站的压力测试，实现网站的高并发。
 
-（3）李悦悦：负责数据库的创建，和sql语句的编写，同时也负责PPT和小组实习报告的撰写。
+（3）lyy：负责数据库的创建，和sql语句的编写，同时也负责PPT和小组实习报告的撰写。
 
 # 六、**简易Swing界面编程**
 
